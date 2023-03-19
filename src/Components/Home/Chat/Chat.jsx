@@ -37,7 +37,7 @@ const BeeImg = styled.img`
   position: absolute;
   width: 500px;
   z-index: 10;
-  left: 77%;
+  left: 80.5%;
   top: 0px;
 
   @media (max-width: 1050px) {
