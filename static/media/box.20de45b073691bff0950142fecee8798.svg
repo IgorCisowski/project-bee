@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="87" viewBox="0 0 99 87">
+  <g id="Group_153" data-name="Group 153" transform="translate(-144 -5910)">
+    <path id="Polygon_8" data-name="Polygon 8" d="M74.25,0,99,43.5,74.25,87H24.75L0,43.5,24.75,0Z" transform="translate(144 5910)" fill="#ffbe00"/>
+    <g id="Group_163" data-name="Group 163" transform="translate(-47 30)">
+      <rect id="Property_1_bold" data-name="Property 1=bold" width="24" height="24" transform="translate(229 5912)" fill="none"/>
+      <path id="Vector" d="M16.14,4.93a1.431,1.431,0,0,1-.74,1.28L9.13,9.59a2.216,2.216,0,0,1-2.12,0L.74,6.21a1.477,1.477,0,0,1,0-2.56L7.01.27a2.216,2.216,0,0,1,2.12,0L15.4,3.65a1.431,1.431,0,0,1,.74,1.28Z" transform="translate(232.93 5914.029)" fill="#090909"/>
+      <path id="Vector-2" data-name="Vector" d="M9.28,5.311v5.51a1.413,1.413,0,0,1-.68,1.22,1.442,1.442,0,0,1-1.39.06L1.38,9.181A2.5,2.5,0,0,1,0,6.941V1.431A1.429,1.429,0,0,1,2.07.151l5.84,2.92a2.454,2.454,0,0,1,1.37,2.24Z" transform="translate(231 5921.719)" fill="#090909"/>
+      <path id="Vector-3" data-name="Vector" d="M9.28,1.435v5.51A2.491,2.491,0,0,1,7.9,9.185l-5.83,2.92a1.442,1.442,0,0,1-1.39-.06A1.413,1.413,0,0,1,0,10.825V5.315a2.491,2.491,0,0,1,1.38-2.24L7.21.155A1.409,1.409,0,0,1,8.6.215a1.425,1.425,0,0,1,.68,1.22Z" transform="translate(241.72 5921.715)" fill="#090909"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(253 5936) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

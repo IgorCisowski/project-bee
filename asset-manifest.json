@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/project-bee/static/js/main.76b43f60.js",
+    "static/media/bundleBg.png": "/project-bee/static/media/bundleBg.ce6cdce11cf003603484.png",
+    "static/media/beefinal.svg": "/project-bee/static/media/beefinal.71f56c0c050c12d3621c313767037ae2.svg",
+    "static/media/bg.jpg": "/project-bee/static/media/bg.817fa2431832f73f0b92.jpg",
+    "static/media/metalBee2.png": "/project-bee/static/media/metalBee2.a18f850b0cd0ef0d5bf7.png",
+    "static/media/metalBee.png": "/project-bee/static/media/metalBee.fae042364d7a13303d25.png",
+    "static/media/bee.png": "/project-bee/static/media/bee.c352481667d3bc33a0c6.png",
+    "static/media/ContactLogo.png": "/project-bee/static/media/ContactLogo.40812de8323cf2159887.png",
+    "static/media/head.png": "/project-bee/static/media/head.322c5c138d12edb593fa.png",
+    "static/media/BeeLogoHome.png": "/project-bee/static/media/BeeLogoHome.0d87f4145e85cd1d374b.png",
+    "static/media/polygon.png": "/project-bee/static/media/polygon.d768d8c2f7f4afc2deeb.png",
+    "static/media/box.svg": "/project-bee/static/media/box.20de45b073691bff0950142fecee8798.svg",
+    "static/media/instagram.svg": "/project-bee/static/media/instagram.af9d0c017c98f60b99366536eb2e080d.svg",
+    "static/media/crown.svg": "/project-bee/static/media/crown.fdad56638bce79175f500ed805c950dc.svg",
+    "static/media/mess.svg": "/project-bee/static/media/mess.6030f42eed4832c037f462ef5d4c95d7.svg",
+    "static/media/kleps.svg": "/project-bee/static/media/kleps.17f16863ac7b95119cdeb02ea2e822c9.svg",
+    "index.html": "/project-bee/index.html",
+    "static/media/add.svg": "/project-bee/static/media/add.1b9d7a6cb31b929e752c84982d9d8cba.svg",
+    "static/media/send.svg": "/project-bee/static/media/send.7c98d7f1ca17fa27f83912bc7d590117.svg",
+    "static/media/twitter.svg": "/project-bee/static/media/twitter.01f069d572a844ea0e06857d770b80a5.svg",
+    "static/media/Icon.svg": "/project-bee/static/media/Icon.81d01cd39ceb2e8804b9555da81638a9.svg",
+    "static/media/Polygon.svg": "/project-bee/static/media/Polygon.5a0d8220cc3b29f2d36039ba23d54bb1.svg",
+    "static/media/yellowX.svg": "/project-bee/static/media/yellowX.17cdb8db8b10b6888cedc8f53610006f.svg",
+    "static/media/facebook.svg": "/project-bee/static/media/facebook.9e211d25db1d4b4545e46bfb56465d2d.svg",
+    "main.76b43f60.js.map": "/project-bee/static/js/main.76b43f60.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.76b43f60.js"
+  ]
+}
