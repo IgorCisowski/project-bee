@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_270" data-name="Group 270" transform="translate(-819 1)">
+    <g id="Icon" transform="translate(819 -1)">
+      <g id="Area" fill="#fff" stroke="#fdfdfd" stroke-width="1" opacity="0">
+        <rect width="20" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="19" height="19" fill="none"/>
+      </g>
+      <g id="Icon-2" data-name="Icon" transform="translate(1.29 2.499)">
+        <line id="Line" y2="11.667" transform="translate(8.71 1.668)" fill="none" stroke="#fdfdfd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        <line id="Line-2" data-name="Line" x2="11.667" transform="translate(2.877 7.501)" fill="none" stroke="#fdfdfd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      </g>
+    </g>
+  </g>
+</svg>
