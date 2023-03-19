@@ -94,7 +94,7 @@ const Carousel = styled.div`
   justify-content: space-between;
   max-width: 215px;
   width: 100%;
-  margin: 40px auto 40px;
+  margin: 40px auto 25px;
 `;
 
 const CarouselEl = styled.div`

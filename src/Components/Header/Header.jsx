@@ -15,6 +15,7 @@ const Navbar = styled.nav`
 `;
 
 const Burger = styled.button`
+  cursor: pointer;
   position: fixed;
   z-index: 100;
   padding-left: 24px;

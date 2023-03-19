@@ -5,6 +5,7 @@ import { SocialMedia } from "../../SocialMedia";
 import { ContactInfo } from "../../ContactInfo";
 import { CopyRight } from "../../CopyRight";
 const YellowX = styled.button`
+  cursor: pointer;
   margin-bottom: 33px;
   top: 40px;
   left: 24px;

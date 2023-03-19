@@ -15,15 +15,16 @@ const StyledHome = styled.section`
   background-repeat: no-repeat;
 
   @media (max-width: 1050px) {
-    height: 1400px;
+    height: 1500px;
   }
 
   @media (max-width: 768px) {
     background-position: 31% 0%;
+    height: 1400px;
   }
 
   @media (max-width: 500px) {
-    height: 1700px;
+    height: 1650px;
   }
 `;
 

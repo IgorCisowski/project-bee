@@ -9,7 +9,8 @@ const AboutTitle = styled.div`
   font-weight: bold;
 
   @media (max-width: 1050px) {
-    font-size: 70px;
+    font-size: 68px;
+    margin-bottom: 100px;
   }
 
   @media (max-width: 500px) {

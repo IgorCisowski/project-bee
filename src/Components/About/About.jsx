@@ -44,7 +44,7 @@ const Colage = styled.img`
   bottom: -70px;
   left: 400px;
 
-  @media (max-width: 800px) {
+  @media (max-width: 860px) {
     width: 300px;
     left: 100px;
   }
